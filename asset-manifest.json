@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.720b9073.chunk.css",
-  "main.js": "/static/js/main.b6588e5f.chunk.js",
-  "main.js.map": "/static/js/main.b6588e5f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.a02172c6.chunk.js": "/static/js/2.a02172c6.chunk.js",
-  "static/js/2.a02172c6.chunk.js.map": "/static/js/2.a02172c6.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.88fcbfd44e494c2d2430b3df403b9c8b.js": "/precache-manifest.88fcbfd44e494c2d2430b3df403b9c8b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.720b9073.chunk.css.map": "/static/css/main.720b9073.chunk.css.map"
+  "main.css": "/SongsApp/static/css/main.720b9073.chunk.css",
+  "main.js": "/SongsApp/static/js/main.b6588e5f.chunk.js",
+  "main.js.map": "/SongsApp/static/js/main.b6588e5f.chunk.js.map",
+  "runtime~main.js": "/SongsApp/static/js/runtime~main.54a5c43f.js",
+  "runtime~main.js.map": "/SongsApp/static/js/runtime~main.54a5c43f.js.map",
+  "static/js/2.a02172c6.chunk.js": "/SongsApp/static/js/2.a02172c6.chunk.js",
+  "static/js/2.a02172c6.chunk.js.map": "/SongsApp/static/js/2.a02172c6.chunk.js.map",
+  "index.html": "/SongsApp/index.html",
+  "precache-manifest.7a340ba2cf27a9c5119d000d5b71ce9e.js": "/SongsApp/precache-manifest.7a340ba2cf27a9c5119d000d5b71ce9e.js",
+  "service-worker.js": "/SongsApp/service-worker.js",
+  "static/css/main.720b9073.chunk.css.map": "/SongsApp/static/css/main.720b9073.chunk.css.map"
 }
